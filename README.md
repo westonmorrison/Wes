@@ -7,6 +7,6 @@ WES MORRISON
 
 <h3> This is my Taylor Guitar ![Guitar](https://github.com/westonmorrison/Wes/blob/master/IMG_0285%202.jpg)
   
-  <h4> I am currently reading _Think And Grow Rich_ by **Napoleon Hill** 
+  <h4> I am currently reading _Think And Grow Rich_ by *Napoleon Hill* 
 
   
