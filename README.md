@@ -1,6 +1,8 @@
 WES MORRISON
+This is My House
 ![My House](https://webstockreview.net/images/clipart-home-garden-13.png) 
 
+Here is my dog Mattis
 <ht> ![This is my dog Mattis](https://github.com/westonmorrison/Wes/blob/master/IMG_5217.JPG)
 <h2> He is a German Shepherd
 <h3> His favorite things are: 
