@@ -11,4 +11,3 @@ _It is in Columbia, Missouri_
   2. Belly rubs
   3. Sleeping on his back
   
-  
