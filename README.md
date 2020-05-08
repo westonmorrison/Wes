@@ -6,5 +6,7 @@ WES MORRISON
 <ht> ![This is my dog Mattis](https://github.com/westonmorrison/Wes/blob/master/IMG_5217.JPG)
 
 <h3> This is my Taylor Guitar ![Guitar](https://github.com/westonmorrison/Wes/blob/master/IMG_0285%202.jpg)
+  
+  <h4> I am currently reading _Think And Grow Rich_ by **Napoleon Hill** 
 
   
